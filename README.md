@@ -4,7 +4,7 @@ This project consists on the implementation of an algoritm that calculaes a pola
 I had not seen this implemented and I want to a do a literature reivew 
 <br>
 
-#picture here
+[!logo](/pictures/logo.png)
 
 </br>
 This algoritm was created by GUERRA (2013) and is methodologically defined in the article ["A Measure of Polarization on Social Media Networks Based on Community Boundaries"](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/viewPaper/6104).
