@@ -4,6 +4,8 @@ This project consists on the implementation of an algoritm that calculaes a pola
 I had not seen this implemented and I want to a do a literature reivew 
 <br>
 
+<b> this is to track social media polarazation </b>
+
 ![logo](pictures/logo.png)
 
 </br>
