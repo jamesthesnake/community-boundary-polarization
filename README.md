@@ -3,8 +3,6 @@
 This project consists on the implementation of an algoritm that calculaes a polarization measure for social media networks. It considers the relationship between nodes within community boundaries, going against the knowing modularity measure.
 I had not seen this implemented and I want to a do a literature reivew 
 
-##need lit review
-<br>
 
 <b> this is to track social media polarazation </b>
 
